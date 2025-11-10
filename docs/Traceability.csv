@@ -1,0 +1,7 @@
+Requirement ID,Test Case IDs,Description
+R-LOGIN-REDIRECT,LGN_001,Valid login redirects to inventory page
+R-LOGIN-VALIDATION,LGN_002;LGN_003;LGN_004,Input validation for empty fields and wrong credentials
+R-LOCKED-USER,LGN_005,Locked user account error handling
+R-A11Y-USABILITY,LGN_006;LGN_007,Keyboard navigation and accessibility (tab order, Enter key)
+R-SECURITY-HYGIENE,LGN_008,Basic security validation (XSS prevention)
+
